@@ -4,7 +4,7 @@ UiPath RPA Academy Practice Exercises for Lessons
 README file for UiPath platform coding samples during Level 1 Foundation Training
 ## Name: Description
 * Lesson_2_Practice_1: Ask user a math question, the equation, 1+1 =2
-Lesson_2_Practice_2: Testing the output of Generic variables
+* Lesson_2_Practice_2: Testing the output of Generic variables
 Lesson_3_Practice_1: Creates a nickname for each club member using the first 3 letters of the first name, all in uppercase, and the first 3 letters of the last name, all in lowercase.
 Lesson_4_Practice_1: Notepad automation
 Lesson_4_Practice_2: Weather in <city>
